@@ -1,0 +1,79 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    font-family: customMT;
+}
+.young {
+    font-family: YoungMd;
+}
+.Livert {
+    font-family: LivertMd;
+}
+
+.animation {
+    animation: spin 3s linear infinite;
+}
+.border_c{
+    border: 1px solid rgba(28, 28, 41, 0.12);
+}
+.border_i{
+    border: 1px solid rgba(28, 28, 41, 0.12);
+    background: rgba(255, 255, 255, 0.10);
+}
+.social {
+    background: #F0F0F2;
+}
+.owl-stage{
+    display: flex;
+    align-items: center;
+}
+
+.top {
+    top: -2px;
+}
+.topt {
+    top: 30%;
+    left: -25px;
+    transform: rotate(23.123deg);
+}
+.topimg {
+    top: 43%;
+    left: -37px;
+    transform: rotate(10deg);
+}
+.button_bg {
+    background: rgba(28, 28, 41, 0.32);
+}
+.bg_slid {
+    background: #F0F0F2;
+}
+.owl-carousel2 .owl-stage-outer {
+    width: 100%;
+    overflow: hidden;
+}
+.owl-carousel2 .owl-nav{
+    display: none;
+}
+.owl-carousel2 .owl-dot {
+    margin-top: 56px;
+}
+.owl-carousel3 .owl-stage-outer {
+    width: 100%;
+    overflow: hidden;
+}
+.owl-carousel3 .owl-nav{
+    display: none;
+}
+.modal_text_color {
+    color: red;
+}
+.owl-carousel4 .owl-nav {
+    display: none;
+}
+.owl-carousel4 .owl-stage-outer {
+    width: 100%;
+    overflow: hidden;
+}

@@ -1,0 +1,16 @@
+@font-face {
+    font-family: customLT;
+    src: url(../fonts/Aeroport-Light.woff2);
+}
+@font-face {
+    font-family: customMT;
+    src: url(../fonts/Aeroport-Medium.woff2);
+}
+@font-face {
+    font-family: YoungMd;
+    src: url(../fonts/the-youngest-script.ttf);
+}
+@font-face {
+    font-family: LivertMd;
+    src: url(../fonts/TT_Livret_Display_Trial_Medium_Italic.ttf);
+}
